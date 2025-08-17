@@ -1,0 +1,5 @@
+Player URL:
+https://gh56u.github.io/player/?list=https://raw.githubusercontent.com/gh56u/e63d9308679d0027/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/gh56u/e63d9308679d0027/refs/heads/master/github_master.m3u8
